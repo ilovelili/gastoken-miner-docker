@@ -1,4 +1,4 @@
-# gastoken-miner-token
+# gastoken-miner-docker
 
 ## How to use Gastoken miner
 

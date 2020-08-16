@@ -10,6 +10,14 @@
 
 ## exmaple cmd
 
+Check usage
+
 ```bash
-docker run gastoken-miner -p "0xPrivKey" -c ETC -t GST1 -b 20 -n "http://localhost:8545"
+docker run gastoken-miner
+```
+
+Mining
+
+```bash
+docker run gastoken-miner -p "0xYourPrivKey" -c ETC -t GST1 -b 20 -n "http://localhost:8545"
 ```
